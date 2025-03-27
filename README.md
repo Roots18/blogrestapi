@@ -1,1 +1,0 @@
-## Spring Boot Blog REST API
